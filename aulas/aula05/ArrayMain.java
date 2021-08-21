@@ -1,5 +1,3 @@
-package AulaCinco;
-
 public class ArrayMain {
         public static void main(String[] args) {
             int[] jogoSena; //Declaração
